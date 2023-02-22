@@ -1,4 +1,4 @@
-# Main
+# Learning
 
 Learning Github using the Github Essential Training.
 https://www.linkedin.com/learning/github-essential-training/the-basic-github-workflow?autoSkip=true&autoplay=true&resume=false&u=57684225
@@ -14,3 +14,12 @@ After commits you do a pull request. Discussions and reviews that the team can m
 
 After doing the pull and doing the pull, you can deploy and after its been deployed and tested then you can do a merg.
 
+## Protection
+Admins can make protection, thios adds some security to the repo.
+Can block contributors from making changes to master.
+So we can set up authorized people in the group.
+Can also add branch rules to be applied to a branch. Protections can be on all branches.
+Can make it have that pull requirests have at lest one review. 
+
+## Continuous Intergration (CI)
+yeah
